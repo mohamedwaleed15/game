@@ -1,0 +1,55 @@
+body{
+text-align: center;
+background-color: gray;
+
+}
+
+
+h1{
+  font-family: 'Indie Flower', cursive;
+ padding-bottom:5%;
+ margin: 15px;
+
+
+}
+.color1{
+  border-radius:25%;
+  margin: 2%;border:solid 5px;
+  background-color: red;
+  width:13%;
+  height:50px;
+}
+.color2{  border-radius:25%;
+margin: 2%;border:solid 5px;
+  background-color: green;
+  width:13%;
+  height:50px;
+}
+.color3{  border-radius:25%;
+margin: 2%;
+  border: solid 5px;
+  background-color: blue;
+  width:13%;
+  height:50px;
+}
+.color4{margin: 2%;
+    border-radius:25%;
+border:  solid 5px;
+  background-color: yellow;
+  width:13%;
+  height:50px;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
